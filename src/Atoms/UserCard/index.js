@@ -1,3 +1,4 @@
+import './index.css';
 const UserCard=({image,fullName,id})=>{
     return(
         <div className="image">
@@ -9,6 +10,16 @@ const UserCard=({image,fullName,id})=>{
     );
 };
 export default UserCard;
+
+
+
+
+
+
+
+
+
+
 
 
 

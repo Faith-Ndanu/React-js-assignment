@@ -4,6 +4,9 @@ form{
     padding: 10px;
     margin-left: 20px;
     font-size: 20px;
+    margin-left: 400px;
+    text-align: center;
+    margin-bottom: 100px;
 }
 input{
     width: 790px;
@@ -12,15 +15,16 @@ input{
 }
 button{
     padding: 6px 10px;
-    width: 85%;
+    width: 84%;
     height: 40px;
     border: none;
-    background-color: rgb(33, 114, 184);
+    background-color: rgb(235, 74, 208);
     color: #ffffff;
     border-radius: 5px;
     cursor: pointer;
-    margin-left: 20px;
+    margin-left:10px;
     font-size: 20px;
+    margin-bottom: 50px;
 }
 
 
