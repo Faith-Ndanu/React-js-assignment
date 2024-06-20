@@ -1,0 +1,21 @@
+form{
+    width: 60px;
+    border: solid 1px;
+    padding: 10px;
+}
+input{
+    width: 90px;
+    margin: 2% 0;
+    padding: 16px 12px;
+}
+button{
+    padding: 6px 10px;
+    width: 90%;
+    border: none;
+    background-color: aliceblue;
+    color: #ffffff;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+
