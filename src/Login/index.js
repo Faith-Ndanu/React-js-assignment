@@ -1,7 +1,7 @@
 // import login from '.utils';
 import './index.css';
 import { useState } from 'react';
-import { login } from './utils';
+import { login}  from './utils';
 
 
 const Login =()=>{
@@ -24,7 +24,9 @@ const Login =()=>{
             <br/>
             <input placeholder="Enter password" type="password" onChange={(e)=> setPassword(e.target.value)}/>
             <br/>
-            <button type="submit">Login</button>
+            <button type='submit'>LogIn</button>
+        
+            {/* <button type="submit">Login</button> */}
             </form>
         
     )

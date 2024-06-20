@@ -1,6 +1,6 @@
 const UserCard=({image,fullName,id})=>{
     return(
-        <div>
+        <div className="image">
             <img src={image} alt={`${fullName} profile}`}/>
             <h3>{fullName}</h3>
             <img/>
